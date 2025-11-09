@@ -1,6 +1,6 @@
 
 
-# 💫 Hi 👋, I'm Shaikh Sohel
+#  Hi 👋, I'm Shaikh Sohel
 ** I'm a MERN Stack Developer who loves crafting full-stack web applications that make an impact. I’m obsessed with clean code, creative UI, and backend logic that just works.<br><br>**
 
 Email Me 👉 ✉️ **shaikhsohel6786@live.com** For Collaboration/Project or Anything Else. 😊😊
